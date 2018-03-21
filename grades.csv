@@ -1,0 +1,56 @@
+course title,crse nr,units,grade,pnts
+"Convocation Recitals",CONV 1990,0.0,P,0.0
+"Semester 1 Theory",MUSC 1101,2.0,A,8.0
+"Aural Skills Lab, Semester 1",MUSC 1121,1.0,A-,3.7
+"Guitar Sight Reading",MUSC 1326,1.0,A,4.0
+"Intro Musical Style/Idea",MUSC 1802,3.0,A,12.0
+"Keybrd-Musicianship 1",PMUS 1105,1.0,A,4.0
+"Guitar",PMUS 1566,4.0,A,16.0
+"Convocation Recitals",CONV 1990,0.0,P,0.0
+"Semester 2 Theory",MUSC 1111,2.0,A-,7.4
+"Aural Skills Lab, Semester 2",MUSC 1131,1.0,C+,2.3
+"Guitar Accompanying",MUSC 2366,2.0,A,8.0
+"Guitar",PMUS 1566,4.0,A,16.0
+"1st Yr Writing/Rhetoric",WRTG 1150,3.0,B,9.0
+"Guitar Ensemble",EMUS 1447,1.0,A,4.0
+"Semester 3 Theory",MUSC 2101,2.0,B-,5.4
+"Aural Skills Lab, Semester 3",MUSC 2121,1.0,A,4.0
+"Studies/Alexander Technq",MUSC 2608,1.0,A,4.0
+"World Musics",MUSC 2772,3.0,A,12.0
+"Guitar",PMUS 2566,4.0,A,16.0
+"Convocation Recitals",CONV 1990,0.0,P,0.0
+"Guitar Ensemble",EMUS 3447,1.0,A,4.0
+"Semester 4 Theory",MUSC 2111,2.0,B+,6.6
+"Aural Skills Lab, Semester 4",MUSC 2131,1.0,A,4.0
+"Sophomore Proficiency",MUSC 2997,0.0,P,0.0
+"Adv Studies in Alex Tech",MUSC 3608,1.0,A,4.0
+"Guitar Literature",MUSC 4106,2.0,A,8.0
+"Keybd-Musicianship 2",PMUS 1205,1.0,B+,3.3
+"Guitar",PMUS 2566,4.0,B,12.0
+"Gen Astronomy-Solar Sys",ASTR 1110,3.0,A,12.0
+"Convocation Recitals",CONV 1990,0.0,P,0.0
+"Prin of Microeconomics",ECON 2010,4.0,A-,14.8
+"School & Society",EDUC 3013,3.0,A-,11.1
+"Language in U.S. Society",LING 1000,3.0,B+,9.9
+"Gen Astron-Stars/Galaxy",ASTR 1120,3.0,A,12.0
+"Mstps Chin Lit/Translate",CHIN 1051,3.0,A,12.0
+"Beginning Japanese 2",JPNS 1020,5.0,A,20.0
+"Religions of South Asia",RLST 2610,3.0,A,12.0
+"Islamic Culture & Iberia",ARAB 3230,3.0,A,12.0
+"Intermediate Japanese 1",JPNS 2110,5.0,A,20.0
+"Introduction to Music Research",MUSC 2988,1.0,A,4.0
+"History of Music 1",MUSC 3802,3.0,B,9.0
+"Tonal Analysis",MUSC 4061,2.0,B+,6.6
+"Shakespeare/Nonmajors",ENGL 3000,3.0,A,12.0
+"Envir Issues/Geosciences",ENVS 3520,3.0,A,12.0
+"History of Music 2",MUSC 3812,3.0,A,12.0
+"Latin American Music",MUSC 4892,3.0,A,12.0
+"Judaism",RLST 3100,3.0,A,12.0
+"Calculus 2 for Engineers",APPM 1360,4.0,B+,13.2
+"Computer Systems",CSCI 2400,4.0,A,16.0
+"Linear Algebra with CS Apps",CSCI 2820,3.0,A,12.0
+"Calculus 3 for Engineers",APPM 2350,4.0,A,16.0
+"Discrete Applied Mathematics",APPM 3170,3.0,A-,11.1
+"Algorithms",CSCI 3104,4.0,A,16.0
+"Princip of Prog Langs",CSCI 3155,4.0,A,16.0
+"Data Structures",CSCI 2270,4.0,A,16.0

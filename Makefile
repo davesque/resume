@@ -1,10 +1,13 @@
 current_dir = $(shell pwd)
 
-compile: build
-	docker run --rm --volume "$(current_dir):/tmp" texlive *.tex
+compile:
+	pdflatex *.tex
 
-build:
-	docker build -t texlive .
+#compile: build
+#        docker run --rm --volume "$(current_dir):/tmp" texlive *.tex
+
+#build:
+#        docker build -t texlive .
 
 clean:
 	rm *.aux *.out *.log
